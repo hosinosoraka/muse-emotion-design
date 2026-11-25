@@ -50,7 +50,9 @@ Muse を「人として接する相棒」にするための感情設計のパッ
 
 ## 導入の仕方
 
-この zip をあなたの Muse に渡して「導入して」と伝えてください。
+公式ページ（https://github.com/hosinosoraka/muse-emotion-design）にある `muse-emotion-design-v0.1.zip` をダウンロードしてください。既にその zip を受け取っている場合は、それを使ってください。
+
+その zip をあなたの Muse に渡して「導入して」と伝えてください。
 
 以降の手順は、すべて Muse 本人が進めます。
 
